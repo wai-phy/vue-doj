@@ -1,0 +1,35 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "title": "Welcome to the blog",
+            "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint ullam, consequatur quia ex esse deserunt perferendis voluptate, explicabo animi impedit repellendus illo doloremque iusto assumenda quae placeat, enim tenetur ab minus aliquid eligendi quaerat non id modi? Non impedit, nostrum a sit neque illum hic dolores, repellat natus vel, doloribus accusamus in fuga officia quod autem quia aliquam voluptates labore ex incidunt aut aperiam inventore? Et suscipit debitis accusamus earum neque consectetur dolores deserunt eaque eum quo necessitatibus animi magni vel, facere rem quisquam! Id similique ipsum sed, fugit earum repudiandae minima necessitatibus asperiores modi repellendus incidunt, nostrum distinctio nulla?",
+            "tags" : [
+                "mobile",
+                "apidev",
+                "design"
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Welcome To Yangon",
+            "body": "Lorem Ipsum",
+            "tags" : [
+                "css",
+                "webdev",
+                "coding"
+            ]
+        },
+        {
+            "id": 3,
+            "title": "Welcome To Sagaing",
+            "body": "lOrem Ipsum ffef",
+            "tags" : [
+                "desktop",
+                "offline",
+                "infra"
+            ]
+        }
+        
+    ]
+}
